@@ -49,6 +49,8 @@ Models were compared based on accuracy, precision, recall, and ROC curves. The X
 ## Conclusion
 
 The XGBoost model demonstrated the best performance in identifying fraudulent transactions, with higher precision and recall compared to Logistic Regression and Random Forest models. This model is well-suited for real-world applications where accurate detection of fraud is crucial.
+![Alt text](https://www.researchgate.net/publication/371583927/figure/fig3/AS:11431281168370629@1686961752429/Kernel-density-curve-of-fraud-score-on-Kaggle-Credit-Card-Fraud-Detection-Dataset.png)
+
 
 ## Installation and Usage
 
