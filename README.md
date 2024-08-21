@@ -4,6 +4,8 @@
 
 This project aims to detect fraudulent credit card transactions using machine learning models. The dataset consists of anonymized credit card transactions, with the goal of identifying which transactions are fraudulent.
 
+![Alt text](https://camo.githubusercontent.com/321a5ecc99b4cf8249172d55a53ccb309ad3feaaac09a88e06eb398490cf7a88/68747470733a2f2f65787465726e616c2d636f6e74656e742e6475636b6475636b676f2e636f6d2f69752f3f753d687474707325334125324625324661692d6a6f75726e65792e636f6d25324677702d636f6e74656e7425324675706c6f61647325324632303139253246303625324666726175642d454d562d636869702d6372656469742d636172642e6a706726663d31266e6f66623d31)
+
 ## Dataset
 
 The dataset used in this project includes the following key columns:
