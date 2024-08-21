@@ -28,6 +28,9 @@ The dataset used in this project includes the following key columns:
 
 ## Model Training and Evaluation
 
+![Alt text](https://favtutor.com/resources/images/uploads/Credit_card_fraud_detection_flowchart.jpg)
+
+
 Three machine learning models were employed to detect fraudulent transactions:
 
 1. **Logistic Regression**:
